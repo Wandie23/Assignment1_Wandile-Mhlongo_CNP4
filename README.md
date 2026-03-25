@@ -13,7 +13,7 @@
 ### Verification off K3s installation on all master nodes
 
 ### Deploying of test application
-
+![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/65d76ae9e88e59a08c7642c16b563332023a1f5c/Screenshot%202026-03-25%20234032.png)
 ### Installation on NGINX Ingress Controller
 
 ### Uninstalling k3S
