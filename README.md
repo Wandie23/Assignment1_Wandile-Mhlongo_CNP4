@@ -8,6 +8,8 @@
 
 ### Creating of Instances and Security groups
 
+![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/16961ef80973c6f8a1651218107556ee54c6751a/Screenshot%202026-03-26%20211942.png)
+
 ### Preparation of Nodes
 
 ### Verification off K3s installation on all master nodes
