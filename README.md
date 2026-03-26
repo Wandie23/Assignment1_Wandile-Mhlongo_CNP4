@@ -14,6 +14,8 @@
 
 ### Preparation of Nodes
 
+![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/7e6d721791afa1f61653f27bf0e57a03dcea3870/c37585b5-d8b3-48dc-899d-0ead913a494f.png)
+
 ### Verification off K3s installation on all master nodes
 
 ### Deploying of test application
