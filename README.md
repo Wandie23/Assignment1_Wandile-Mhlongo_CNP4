@@ -10,16 +10,16 @@
 
 ![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/16961ef80973c6f8a1651218107556ee54c6751a/Screenshot%202026-03-26%20211942.png)
 
+
 ![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/7fdeac395a8ef01227864760ed50e7d030c8687d/Screenshot%202026-03-26%20211716.png)
 
 ### Preparation of Nodes
 
 ![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/7e6d721791afa1f61653f27bf0e57a03dcea3870/c37585b5-d8b3-48dc-899d-0ead913a494f.png)
 
-### Verification off K3s installation on all master nodes
-
 ### Deploying of test application
 ![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/65d76ae9e88e59a08c7642c16b563332023a1f5c/Screenshot%202026-03-25%20234032.png)
+
 ### Installation on NGINX Ingress Controller
 ![](https://github.com/Wandie23/Assignment1_Wandile-Mhlongo_CNP4/blob/bd9fc4ef995a78d0545e4a6b20ec20f8b1fdbccb/Screenshot%202026-03-26%20000345.png)
 
