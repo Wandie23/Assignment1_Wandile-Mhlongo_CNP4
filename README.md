@@ -31,6 +31,12 @@
 
 ## Reflection
 
+## What is k3s and why is it used?
+
+ K3s is a scaled-down version of Kubernetes, the well-known built app management system. K3s maintains all the essential components while reducing the bloat, fitting into a single compact file and operating on relatively modest hardware. Regular Kubernetes is strong but heavy and complicated. 
+
+ On AWS, people use K3s when they want to run containers on regular EC2 instances (virtual machines) without paying for AWS's managed Kubernetes service (EKS), which can get expensive. It's great for small projects, dev/test environments, or startups that need Kubernetes features like auto-scaling and easy deployments — but without the complexity and cost of a full enterprise setup.
+
 # What did i learn?
 
 Deploying K3s on AWS allowed me to gain insight into the practical gap between theoretical Kubernetes understanding and real-world application. Prior to this assignment, I enjoyed a basic understanding of Kubernetes concepts such as control planes, pods, and services.
